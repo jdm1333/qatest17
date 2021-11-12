@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "579d0033-aa7c-4a48-a7d5-014519e8ce97": {
+      "ProjectGuid": "579d0033-aa7c-4a48-a7d5-014519e8ce97",
+      "DisplayName": "FileStorage",
+      "ColorIndex": 0
+    },
+    "e71474ca-ec87-418d-aefa-be07d33d16cf": {
+      "ProjectGuid": "e71474ca-ec87-418d-aefa-be07d33d16cf",
+      "DisplayName": "FileStorageTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
